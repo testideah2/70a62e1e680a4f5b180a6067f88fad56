@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "lightcommuns.ru"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. LightCommuns</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/5f6e785950260aaabeb009cebf250b74.png" density="xxhdpi" />
         <icon src="res/android/icon/956d598ba91e024fc300d82734ffee4e.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/a2a136ad250293ea13684a274f0976ed.png" density="port-hdpi"/>
-        <splash src="res/android/screen/90526de903e3056d56a861f20ea31777.png" density="port-ldpi"/>
-        <splash src="res/android/screen/5ecca1a328a196c34efedf5b40df9376.png" density="port-mdpi"/>
-        <splash src="res/android/screen/59e48dbd985600713c93d6dbe2c98138.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/58335e1749bb3c9392634efea7b179b4.png" density="port-hdpi"/>
+        <splash src="res/android/screen/322bcc16dedc699bf1920b6f2f639132.png" density="port-ldpi"/>
+        <splash src="res/android/screen/b23ab3c0e7fd66b13f6f950933ff761a.png" density="port-mdpi"/>
+        <splash src="res/android/screen/48baa4659906ab1a7b0861b56ded60f5.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
