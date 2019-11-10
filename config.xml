@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "lightcommuns.ru"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ТЕСТ. LightCommuns</name>
+    <name>LightCommuns</name>
 
     <description>
         Приложения для удобного входа в социальную сеть LightCommuns.
